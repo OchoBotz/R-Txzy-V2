@@ -177,8 +177,8 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![AlyaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
+ [![OchoBotz](https://github.com/OchoBotz.png?size=100)](https://github.com/OchoBotz) | [![AlyaaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd)
 ----|----
-[AlyaXd](https://github.com/AlyaaXd) | [BOTCAHX](https://github.com/BOTCAHX)
+[OchoBotz](https://github.com/OchoBotz) | [AlyaaXd](https://github.com/AlyaaXd)
  Creator | Creator
 
