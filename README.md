@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/4637101da58e21976363b.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
 
 </p>
-<h1 align="center">AlyaaXzy X BOTCAHX</h1>
+<h1 align="center">OchoBotz X AlyaaXzy</h1>
 
 <h1 align="center">Jangan lupa kasih stars & follow :)</h1>
 
@@ -11,12 +11,12 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/OchoBotz"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://github.com/BOTCAHX"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6289505165400">SC FREE API KOK GAN >//< </a>
+  <a href="https://wa.me/6282232806698">SC FREE API KOK GAN >//< </a>
 </h4>
 </p>
 
@@ -67,29 +67,29 @@ Simple WhatsApp Bot
 # THANKS TO 
  [`Baileys`](https://github.com/adiwajshing/Baileys)
 
- [`AlyaXzy`](https://wa.me/6289505165400)
+ [`OchoBotz`](https://wa.me/6282232806698)
 
- [`BOTCAHX`](https://wa.me/6282221792667)
+ [`AlyaaaXxy`](https://wa.me/6289505165400)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
 ~ Selamat Memakai~
 
 
-### AlyaaXd stat
+### OchoBotz stat
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=OchoBotz&theme=midnight-purple&show_icons=true) 
+
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=OchoBotz&theme=monokai)
+
+![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OchoBotz&theme=tokyonight)
+
+
+### BOTCAHX stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AlyaaXd&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AlyaaXd&theme=monokai)
 
 ![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyaaXd&theme=tokyonight)
-
-
-### BOTCAHX stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=BOTCAHX&theme=midnight-purple&show_icons=true) 
-
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
-
-![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCAHX&theme=tokyonight)
 
 
 ## Arguments `node . [--options] [<session name>]`
